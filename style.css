@@ -1,0 +1,61 @@
+img{
+    width: 100%;
+    height: auto;
+    margin: 0%;
+}
+h1{
+    font-size: 80px;
+    margin: 5px;
+}
+p{
+    font-size: 20px;
+}
+h3{
+    color:hsl(332, 51%, 32%) ;
+    text-indent: 30px;
+    margin-bottom: 0%;
+    font-size: 25px
+}
+.r2{
+    background-color:hsl(330, 100%, 98%) ;
+}
+ul{
+    line-height: 40px;
+    margin: 5px;
+    font-size: 20px;
+}
+h2{
+    color:hsl(14, 45%, 36%) ;
+    text-indent: 30px;
+    font-size: 30px;
+    margin: 0%;
+}
+ol{
+    line-height: 40px;
+    margin: 5px;
+    font-size: 20px;
+}
+ul li::marker {
+    color: hsl(332, 51%, 32%); 
+}
+ol li::marker{
+    color: hsl(14, 45%, 36%);
+}
+span{
+    color: hsl(14, 45%, 36%);
+}
+.p1{
+    word-spacing: 500px;
+}
+.p2{
+    word-spacing: 540px;
+}
+.p3{
+    word-spacing: 525px;
+}
+.p4{
+    word-spacing: 560px;
+}
+footer{
+    text-align: center;
+}
